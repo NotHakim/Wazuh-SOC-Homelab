@@ -1,0 +1,5 @@
+Note: Some credentials were swapped to placeholders to ensure that nothing sensitive on my end is accidentally leaked on a public-facing repository.
+
+The following changes are made:
+* INDEXER_PASSWORD=<your-indexer-password> (used to log into the Wazuh dashboard)
+* API_PASSWORD=<your-api-password> (Internal Wazuh Manager, dashboard API authentication)
